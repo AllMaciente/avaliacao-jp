@@ -1,0 +1,63 @@
+section{
+    margin: 6vh 3vw;
+}
+h2{
+    font-size: 3vh;
+    padding: 2vh 0 0;
+    border-bottom: 2px solid #00a8aa;
+    margin-bottom: 2vh;
+}
+article p{
+    width: 90%;
+    padding: 1vh 1vw;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width: 3vw;
+    padding: 1vh 0.1vw;
+    margin: 0 2vw;
+}
+.skills{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+div.grid{
+    display: grid;
+    grid-auto-flow: row;
+}
+div.card{
+    display: flex;
+    flex-direction: column;
+
+    width: 90vw;
+margin: 2vh 0;
+padding: 3vh 2vw;
+background-color: #f4f4f4;
+border-radius: 15px;
+box-shadow: 0 2px 4px rgba(0, 0, 0,0.5);
+}
+.card h5{
+    font-size: 2vh;
+    font-weight: bold;
+    margin-bottom: 1vh;
+    border-bottom: 2px solid #00a8aa;
+}
+.card article{
+    margin: 2vh 0;
+}
+.card a{
+    text-decoration: none;
+}
+.card a span{
+    padding: 0.5vh;
+    text-decoration: none;
+    color: #00a8aa;
+    border: 2px solid #00a8aa;
+    border-radius: 25px;
+}
