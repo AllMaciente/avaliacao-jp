@@ -53,3 +53,15 @@ header a.this{
     background-color: #00a8aa;
     border-radius: 15px;
 }
+footer{
+    background-color: #2E8182;
+ text-align: center;
+ color: #d1d1d1;
+ padding: 1px;
+ position: sticky;
+ bottom: 0;
+ width: 100%;
+}
+footer span{
+    color: #2E8182;
+}
