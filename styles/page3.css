@@ -9,4 +9,6 @@ input{
 }
 h1{
     margin: 3vh 3vw;
+    text-align: center;
+    border-bottom: 3px solid #00a8aa;
 }
